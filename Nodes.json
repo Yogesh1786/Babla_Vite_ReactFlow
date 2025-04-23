@@ -1,0 +1,771 @@
+[
+  {
+    "id": "dndnode_1743692977366",
+    "type": "default",
+    "position": {
+      "x": 92.87866860343848,
+      "y": 292.3434283797501
+    },
+    "data": {
+      "label": "Machine",
+      "priority": null,
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 85
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1743753843001",
+    "type": "default",
+    "position": {
+      "x": 1651.2945690327936,
+      "y": 292.8011978629041
+    },
+    "data": {
+      "label": "Method",
+      "priority": null,
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 85
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1743753857048",
+    "type": "default",
+    "position": {
+      "x": 2218.950522200637,
+      "y": 292.179446247265
+    },
+    "data": {
+      "label": "Man Power",
+      "priority": null,
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 85
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1743753862454",
+    "type": "default",
+    "position": {
+      "x": 2815.6992434918366,
+      "y": 293.5318492696427
+    },
+    "data": {
+      "label": "Environment",
+      "priority": null,
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 85
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744118877059",
+    "type": "output",
+    "position": {
+      "x": -228.34141204881757,
+      "y": 490.3926974829173
+    },
+    "data": {
+      "label": "Pinwheel Misalignment (12)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744118943278",
+    "type": "output",
+    "position": {
+      "x": -69.8829556761295,
+      "y": 490.45961557525214
+    },
+    "data": {
+      "label": "Pinwheel Positional Fault (4)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744118983371",
+    "type": "output",
+    "position": {
+      "x": 88.20850700911447,
+      "y": 490.5880871594531
+    },
+    "data": {
+      "label": "Sensor Malfunctions (10)",
+      "isParent": false,
+      "priority": "High"
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119032721",
+    "type": "output",
+    "position": {
+      "x": 245.94415689629022,
+      "y": 491.11290692125806
+    },
+    "data": {
+      "label": "Clutch Issues (6)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119061279",
+    "type": "output",
+    "position": {
+      "x": 405.5374053824589,
+      "y": 491.75813413616737
+    },
+    "data": {
+      "label": "Air Motor Issues (3)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119093185",
+    "type": "output",
+    "position": {
+      "x": -184.19029413882964,
+      "y": 635.0129377578646
+    },
+    "data": {
+      "label": "Broken Components (9)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119125225",
+    "type": "output",
+    "position": {
+      "x": -19.814461940589453,
+      "y": 633.9397031689172
+    },
+    "data": {
+      "label": "Clutch/Servo Adjustments (7)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119166030",
+    "type": "output",
+    "position": {
+      "x": 141.8195772760979,
+      "y": 632.9567900077132
+    },
+    "data": {
+      "label": "Jammed Pinwheel (8)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119196267",
+    "type": "output",
+    "position": {
+      "x": 304.4101014454692,
+      "y": 633.1249933120619
+    },
+    "data": {
+      "label": "Wheel Stopping (5)",
+      "isParent": false,
+      "priority": "Low"
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119339116",
+    "type": "output",
+    "position": {
+      "x": 642.9972103315048,
+      "y": 491.10324456952475
+    },
+    "data": {
+      "label": "Foreign Pins (14)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119366652",
+    "type": "output",
+    "position": {
+      "x": 802.8963667651861,
+      "y": 492.3524124199392
+    },
+    "data": {
+      "label": "Mixed Pin Stock (10)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119432978",
+    "type": "output",
+    "position": {
+      "x": 1124.1379420882868,
+      "y": 491.8397180235783
+    },
+    "data": {
+      "label": "Long Pins (6)",
+      "isParent": false,
+      "priority": "Low"
+    },
+    "measured": {
+      "width": 150,
+      "height": 85
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119460728",
+    "type": "output",
+    "position": {
+      "x": 1281.3547475680593,
+      "y": 490.6181767242363
+    },
+    "data": {
+      "label": "Defective Pin Sensor (7)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119530883",
+    "type": "output",
+    "position": {
+      "x": 678.8336703770667,
+      "y": 633.6394747733559
+    },
+    "data": {
+      "label": "Bivet Clamps (4)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119550772",
+    "type": "output",
+    "position": {
+      "x": 842.3184744383136,
+      "y": 633.7756859731536
+    },
+    "data": {
+      "label": "Poor Quality Pin Stock (5)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119571121",
+    "type": "output",
+    "position": {
+      "x": 1006.6343845289114,
+      "y": 633.1618068370851
+    },
+    "data": {
+      "label": "Burrs/Defects (3)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119598857",
+    "type": "output",
+    "position": {
+      "x": 1169.0606144034482,
+      "y": 632.6841389008137
+    },
+    "data": {
+      "label": "Magnetized Material (4)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119692783",
+    "type": "output",
+    "position": {
+      "x": 1505.98935020812,
+      "y": 491.4106306719626
+    },
+    "data": {
+      "label": "Incorrect Assembly (8)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119718358",
+    "type": "output",
+    "position": {
+      "x": 1665.943567966561,
+      "y": 490.16048172861554
+    },
+    "data": {
+      "label": "Improper Adjustments (11)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119742003",
+    "type": "output",
+    "position": {
+      "x": 1826.509202957506,
+      "y": 491.15478852658316
+    },
+    "data": {
+      "label": "Setup Error (7)",
+      "priority": "High",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119787864",
+    "type": "output",
+    "position": {
+      "x": 1492.9957663729467,
+      "y": 633.0035370483762
+    },
+    "data": {
+      "label": "No Maintenance Docs (6)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744119813745",
+    "type": "output",
+    "position": {
+      "x": 1661.8096268995355,
+      "y": 634.3825114523494
+    },
+    "data": {
+      "label": "Inconsistent Procedures (5)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123525992",
+    "type": "output",
+    "position": {
+      "x": 1829.0651523441602,
+      "y": 633.8695832694846
+    },
+    "data": {
+      "label": "Manual Inefficiencies (4)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123548749",
+    "type": "output",
+    "position": {
+      "x": 2071.7902199082887,
+      "y": 491.7133047190654
+    },
+    "data": {
+      "label": "Operator Error (9)",
+      "isParent": false,
+      "priority": "Low"
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123574416",
+    "type": "output",
+    "position": {
+      "x": 2229.8778942816903,
+      "y": 492.39601556070426
+    },
+    "data": {
+      "label": "Insufficient Training (8)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123612426",
+    "type": "output",
+    "position": {
+      "x": 2391.3984311205936,
+      "y": 491.6042082870868
+    },
+    "data": {
+      "label": "Delayed Troubleshooting (10)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123683919",
+    "type": "output",
+    "position": {
+      "x": 2231.6037922193254,
+      "y": 633.6775145501184
+    },
+    "data": {
+      "label": "No Follow Up (4)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123708595",
+    "type": "output",
+    "position": {
+      "x": 2391.7185579281413,
+      "y": 633.3004167806287
+    },
+    "data": {
+      "label": "Ineffective Adjustments (6)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123787614",
+    "type": "output",
+    "position": {
+      "x": 2638.1739731230327,
+      "y": 491.10364864367205
+    },
+    "data": {
+      "label": "Debris Accumulation (11)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123813615",
+    "type": "output",
+    "position": {
+      "x": 2800.1037341507276,
+      "y": 491.79169268251917
+    },
+    "data": {
+      "label": "Contamination (7)",
+      "isParent": false,
+      "priority": "High"
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123835167",
+    "type": "output",
+    "position": {
+      "x": 2961.773831407481,
+      "y": 492.0346200879025
+    },
+    "data": {
+      "label": "Wear and Tear (5)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123859364",
+    "type": "output",
+    "position": {
+      "x": 2639.700825825907,
+      "y": 632.3775559117923
+    },
+    "data": {
+      "label": "High Pressure Ops (4)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123887619",
+    "type": "output",
+    "position": {
+      "x": 2801.7543723913245,
+      "y": 633.1766908448391
+    },
+    "data": {
+      "label": "External Impacts (3)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744123910902",
+    "type": "output",
+    "position": {
+      "x": 2964.0246276020544,
+      "y": 633.9621412732727
+    },
+    "data": {
+      "label": "Improper Handling (4)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744124516973",
+    "type": "input",
+    "position": {
+      "x": 1402.3914699805584,
+      "y": -28.114726059702832
+    },
+    "data": {
+      "label": "March - 2025 Issue Summary",
+      "priority": "High",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 125
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744203692878",
+    "type": "default",
+    "position": {
+      "x": 2069.1351056942167,
+      "y": 632.2622619939818
+    },
+    "data": {
+      "label": "Miscommunication (5)",
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744223739952",
+    "type": "default",
+    "position": {
+      "x": 964.0424730367345,
+      "y": 492.7614718588447
+    },
+    "data": {
+      "label": "Short Pins (5)",
+      "isParent": false,
+      "priority": "High"
+    },
+    "measured": {
+      "width": 150,
+      "height": 101
+    },
+    "selected": false,
+    "dragging": false
+  },
+  {
+    "id": "dndnode_1744285948812",
+    "type": "default",
+    "position": {
+      "x": 975.8899874531382,
+      "y": 293.2426267298206
+    },
+    "data": {
+      "label": "Material",
+      "priority": null,
+      "isParent": false
+    },
+    "measured": {
+      "width": 150,
+      "height": 85
+    },
+    "selected": false,
+    "dragging": false
+  }
+]
